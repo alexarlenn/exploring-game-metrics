@@ -6,7 +6,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?logo=seaborn&logoColor=white&style=for-the-badge)
 ![Scipy](https://img.shields.io/badge/Scipy-blue?logo=Scipy&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-red)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📊 Задачи и решения
 
