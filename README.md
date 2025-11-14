@@ -1,14 +1,5 @@
-# Анализ метрик
+# 📊 Анализ метрик мобильной игры
 Проект по анализу ключевых метрик мобильной игры с использованием Python и статистических методов.
-
-## Стек:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?logo=seaborn&logoColor=white&style=for-the-badge)
-![Scipy](https://img.shields.io/badge/Scipy-blue?logo=Scipy&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 📊 Задачи и решения
 
 ### 🔁**Задача 1: Анализ Retention игроков**
 - Разработана функция расчета retention по дням от даты регистрации и функция для предобработки данных
@@ -24,5 +15,12 @@
 - Определен набор метрик для оценки эффективности тематических событий
 - Проанализировано влияние изменения игровой механики на набор метрик
 - Предложены подходы к оценке сложности и вовлеченности игроков
+
+## 🛠 Технологический стек:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue?logo=seaborn&logoColor=white&style=for-the-badge)
+![Scipy](https://img.shields.io/badge/Scipy-blue?logo=Scipy&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 🚀 [Ноутбук проекта](https://github.com/alexarlenn/exploring-game-metrics/blob/main/exploring-game-metrics.ipynb)
